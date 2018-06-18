@@ -1,0 +1,12 @@
+{application, short,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { short_app, []}},
+  {env, []}
+ ]}.

@@ -1,0 +1,5 @@
+apps/short/ebin/
+short.iml
+./idea
+rel/short/
+deps/
